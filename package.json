@@ -1,0 +1,11 @@
+{
+  "name": "@andreasgr92/andreas-silverblue",
+  "version": "1.0.0",
+  "description": "[![build-ublue](https://github.com/andreasgr92/andreas-silverblue/actions/workflows/build.yml/badge.svg)](https://github.com/andreasgr92/andreas-silverblue/actions/workflows/build.yml)",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "",
+  "license": "ISC"
+}
