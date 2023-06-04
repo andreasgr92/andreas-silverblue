@@ -1,4 +1,4 @@
-# Starting point
+# andreas-silverblue
 
 [![build-ublue](https://github.com/andreasgr92/andreas-silverblue/actions/workflows/build.yml/badge.svg)](https://github.com/andreasgr92/andreas-silverblue/actions/workflows/build.yml)
 
